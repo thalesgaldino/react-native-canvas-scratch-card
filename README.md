@@ -2,6 +2,8 @@
 
 A React Native component for scratch card on Android.
 
+![](gif-scratch.gif)
+
 ## Installation
 
 ---
